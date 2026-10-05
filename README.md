@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hey there! 🎉 I’m Sai Pavan Ganesh Mallampalli, a passionate software developer from Hyderabad. Over the past 2.5 years, I've been immersed in the tech world, developing skills in React, JavaScript, C#, and various front-end technologies</p>
+<p align="left">Hey there! 🎉 I’m Sai Pavan Ganesh Mallampalli, a passionate software developer from Hyderabad. Over the past 5 years, I've been immersed in the tech world, developing skills in React, JavaScript, C#, and various front-end technologies</p>
 
 ###
 
